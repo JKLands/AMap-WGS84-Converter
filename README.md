@@ -1,2 +1,2 @@
 # AMap-WGS84-Converter
-Convert the AMap_GCJ02 to WGS84
+从高德地图的火星坐标系（GCJ02）转化为坐标系WGS84
